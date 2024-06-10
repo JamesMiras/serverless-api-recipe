@@ -25,6 +25,3 @@ mongoose
 app.use('/.netlify/functions/api', router);
 module.exports.handler = serverless(app);
 
-
-
-jXI19hInfhTrPqTk
